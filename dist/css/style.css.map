@@ -1,0 +1,1 @@
+{"version":3,"sources":["_form.scss"],"names":[],"mappings":"AAAA,KACI,SAAU,CACV,eAAgB,CAFpB,WAKQ,kBAAmB","file":"style.css","sourcesContent":["form {\r\n    width: 60%;\r\n    margin: 2em auto;\r\n\r\n    input {\r\n        margin-bottom: .5em;\r\n    }\r\n\r\n    // .alert-danger {\r\n    //     display: none;\r\n    // }\r\n\r\n}"]}
